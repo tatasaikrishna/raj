@@ -1,4 +1,4 @@
 echo " hello all"
 date
-cat
+cal 2023
 cat /etc/os-release
